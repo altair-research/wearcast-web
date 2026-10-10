@@ -1,6 +1,6 @@
 # WearCast web trial
 
-https://altair0622.github.io/wearcast-web/
+https://altair-research.github.io/wearcast-web/
 
 This repository contains the compiled web application and its runtime assets.
 Application source, Android signing files, credentials and user records are not included.
