@@ -292,6 +292,9 @@
     "main.dart.js": "64003c1314c182a7a64504cbcc47954dc82a29a5163657400bccfc2133d4d644",
     "manifest.json": "224cbb12948ec156d69e21606efd3ab1b96823e8cd3edc0132e68cc54e464447",
     "privacy.html": "78d06d4a6521cd3ca191246f17076c276f7125607fd78d0883c9b1988b2b3d65",
-    "version.json": "8fb6bb3c4c1494ba46e170b1beeebbe25ad98c9752beb50d714f9496790cde06"
-  }
+    "version.json": "8fb6bb3c4c1494ba46e170b1beeebbe25ad98c9752beb50d714f9496790cde06",
+    "hello/index.html": "705fd7f3ddae70e1a596bea3188ca284d565ce4c97a3a6a2e7a76d5aec4eab7b",
+    "hello/style.css": "ac53a8db8d3881d4b3d207eb462c7fe4a1db24be22437dcbf8e644324274aa28"
+  },
+  "introduction_source_commit": "adf195f6316714c7d79955b430857aec10c834d8"
 }
