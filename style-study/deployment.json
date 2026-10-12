@@ -1,0 +1,33 @@
+{
+  "source_commit": "b2cbcdfff7c1a566f3b681ae29b0877b90677f40",
+  "url": "https://altair-research.github.io/wearcast-web/style-study/",
+  "images": 24,
+  "files": {
+    "style-study/index.html": "277d8009ea958e743c9e19fcf9ed2ec45bc43f8521b37d810ce65aa51710296e",
+    "style-study/additional.js": "277c224df7574f77f6d99c35465047ec87bafcbf6e43ec60fca748d6331a847d",
+    "style-study/images/men-fudge.webp": "4d2224032ca4223c3804493cb0a8dfb3413671ea5683ec4d0871e4dfea61e212",
+    "style-study/images/men-nonno.webp": "c351537cfdfd0c03d5528a8e80623efaad4d28808dc6729fa633c9cb0ba69797",
+    "style-study/images/men-office-fudge.webp": "11ba5a26d70db8a3f3f7c6ebd832b189d733eb874f71296e62db99aed6cbbad6",
+    "style-study/images/men-office-nonno.webp": "a1d2ae7f8c15d6f56e3d91ddbac91ce7f0fe306d6caeeb905aaf2ee8d9f253da",
+    "style-study/images/men-office-popeye.webp": "7fae41cd35da1420a381a474711ad77a0f292a69027c0f92668f7316b86ad707",
+    "style-study/images/men-popeye.webp": "ad57713fcd9846e76806acc31f8ff6b59702b68887fe002db41477b16b01e015",
+    "style-study/images/men-sporty-fudge.webp": "acdc4679172e76a324b6f5606b3da41c122fdfbee11045119729b3b8cd223af0",
+    "style-study/images/men-sporty-nonno.webp": "55ec7967d1432c560e1ffbce5b8ce609c279e21c10e1b0fa063701e9e207e5be",
+    "style-study/images/men-sporty-popeye.webp": "d9cefa6916d86488d3b0e8250d8ba2b76a985020b2f45690cb2c2c1c82863d05",
+    "style-study/images/men-street-fudge.webp": "21631426259c6d4fbcdf4f2015def5f8472d3bda7d85d18ba243623890ec4a30",
+    "style-study/images/men-street-nonno.webp": "ea7b05871d8078955ba5114f9e7f049f4788cab7627a9bbe8b40ffe072584f13",
+    "style-study/images/men-street-popeye.webp": "d6e5a7b1622121742de6572b9ec7415e7b8cc445a7bab690e44320609ac2828b",
+    "style-study/images/women-cluel.webp": "563fb3e4c81c583239d6b019f32d12c1282df57b521fe08b3c3e9a1181221bfb",
+    "style-study/images/women-fudge.webp": "02a367c2720389f1f1f4e201fcb19a4a95d736d8101713b91e6dce46f2bcb739",
+    "style-study/images/women-gisele.webp": "a9d9394c1b7b418b93826159b8c3fa9d0b5abad2f02887e4f2a738236426ee52",
+    "style-study/images/women-office-cluel.webp": "352185ccf9e62e5a7bc0cfa9582472ebde39e0f3ab99393dfd5bb61817f961e2",
+    "style-study/images/women-office-fudge.webp": "69dc1591240720e2730e2e40468566439b63fe115da06dade25c4b310331ed56",
+    "style-study/images/women-office-gisele.webp": "d7bb57f63fa3a7129acadb271d4161296fe221e95206911bb307fddd5b646d70",
+    "style-study/images/women-sporty-cluel.webp": "34501b1c72a11c6b269078ca46a815bdeb0fd282d8fae1ed752ca425665be89b",
+    "style-study/images/women-sporty-fudge.webp": "223d1f872fa5df50ec9ccaed6f7255af42acb8c3f32e2da9a688362c91dd4ddf",
+    "style-study/images/women-sporty-gisele.webp": "436accd7c365f663f8a41ee976d9de1f3d000b1a58d95a9b5e1d2e9705a4d7a2",
+    "style-study/images/women-street-cluel.webp": "35d221cb1ead1732227cac8ef97caab67442b2194b4565f0a513f3df198bd6f5",
+    "style-study/images/women-street-fudge.webp": "c5eb1b700b98d16cadf343634e18165a02829f5c630372bc1578d7962ac2136d",
+    "style-study/images/women-street-gisele.webp": "8afc5d289030d85a73a084fc6cc07bb183a60fe35b6f7da76d045b6e07ad65b2"
+  }
+}
