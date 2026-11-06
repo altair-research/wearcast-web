@@ -1,5 +1,5 @@
 {
-  "source_commit": "6fdf188c5dad9bf650100b9f3fba7165a223b93e",
+  "source_commit": "a67a0489139b88fc8fc528e78a1215c9ee2957d3",
   "base_href": "/wearcast-web/",
   "url": "https://altair-research.github.io/wearcast-web/",
   "outfit_count": 683,
@@ -690,7 +690,7 @@
     "assets/assets/outfits/wear_street_women_5_6.webp": "3ba9f74de512354fb18793266b1bc288ba06bd7b3d00ef83d34044304cbb079b",
     "assets/assets/outfits/wear_street_women_6_6.webp": "3ba9f74de512354fb18793266b1bc288ba06bd7b3d00ef83d34044304cbb079b",
     "assets/FontManifest.json": "cd7e03645bc44b2dd47b7cb626f51c4ecbf55a197ab77241628b47ac165fbe21",
-    "assets/fonts/MaterialIcons-Regular.otf": "b7641694891d766a0629c4b268fb3f30ca24711b24854efb162372ba0088caef",
+    "assets/fonts/MaterialIcons-Regular.otf": "c1583062db7dfaf0f84614e0aa99b56ed014e5d43da1e7d028bc20a2a2bcd453",
     "assets/NOTICES": "dd5f0188cadcaab602367ad29d7a4f1d28b1486d1f052818296091f3d324f664",
     "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "3d90c370aa4cf00dc57ee2b902f6652147c0f81e03e483df584a9c08b1687c9d",
     "assets/packages/flutter_local_notifications_web/web/notifications_service_worker.js": "566f47dccc0f417f0164a3d0852334c340d0941472af43fc65ee50a314555058",
@@ -712,15 +712,15 @@
     "flutter.js": "2beb1ce6b159c71540aa66030af1d7964b6a92377cc78473745e02f97b74effe",
     "flutter_bootstrap.js": "c1b9f9a817d5c0182a3f4e21ba6637850b3cb2cb608102946216bd365e850ad7",
     "flutter_service_worker.js": "dbfbe64ae5be5b462abb97338eb9af783ed4ed57a8c73a53c2a44488a26f6416",
-    "hello/index.html": "dfd912d14884cfaca7157369d2665e28b27bf4c90514e0d86b17499f00f98f2a",
+    "hello/index.html": "1be8254ca61ae9e51eb97689fcce231deb7499c0bb99de7a02afbc7d31152fcd",
     "hello/style.css": "732676b4f2212232aef1b98cef8b57041f00adabec79b8407addfe4762aa7295",
     "icons/Icon-192.png": "62e6d44b6e40ae4ab4daf0e5a21a4ff14c6fd1f548f897d096a430572fc46b4e",
     "index.html": "0b1226aeddf6d45e7c3aaa42f862aa60a532a28a10c6d71eff7b9b058d7a3677",
-    "main.dart.js": "805921bd1924ba1a44c19d09e3a1d1d5c02629490cad71a8f95342b75bb2e8b9",
+    "main.dart.js": "891aff717106b31285ceb1701866ff9bbd400f585efae2b6047959fea6416ac3",
     "manifest.json": "224cbb12948ec156d69e21606efd3ab1b96823e8cd3edc0132e68cc54e464447",
     "privacy.html": "78d06d4a6521cd3ca191246f17076c276f7125607fd78d0883c9b1988b2b3d65",
     "style-study/additional.js": "b793cc2fde3bf69c692cccaed157855542ce071362b2acf10c27fce05b27db4f",
-    "style-study/deployment.json": "9c762c1bb5cd066344ae29b30ac7fead11a939fe8f4a6cf9866e41b628610e5b",
+    "style-study/deployment.json": "6440c122d2d1d61099078553a780437003128707dc659b99f9e0fd727ec7b6d9",
     "style-study/images/men-fudge.webp": "4d2224032ca4223c3804493cb0a8dfb3413671ea5683ec4d0871e4dfea61e212",
     "style-study/images/men-nonno.webp": "c351537cfdfd0c03d5528a8e80623efaad4d28808dc6729fa633c9cb0ba69797",
     "style-study/images/men-office-fudge.webp": "024f21c02f25f29628fcc5183bcea3269b09d7466c4726b242732b8bb55d09e1",
@@ -746,6 +746,6 @@
     "style-study/images/women-street-fudge.webp": "2ed4953105de45e05119e581d26a74bc1a61b9a72cf5a37d303380145fdfe141",
     "style-study/images/women-street-gisele.webp": "d0ca8bfc1bb01945903f2b977a612d86a78bd09330dcd17cea4d04e068fe300c",
     "style-study/index.html": "136b02a0b215bd276a8ef404dea7ca8beef464e97f675b7e52bf174bb1b1096a",
-    "version.json": "787d68e1951a2a0042d451fee2501f7569cc45e7853093eb0531475e3ab1bb5f"
+    "version.json": "faba79606785e436cfcc63fc2833fdcd997e46551570417f36b32fc93b996636"
   }
 }
