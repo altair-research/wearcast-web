@@ -105185,7 +105185,7 @@ f=h.dL(f)?f:h
 e=c8.ax
 d=d0.a
 if(e.eO(d))e=d
-if(e.eO(f)){g=new A.p(i.$1(f),k,i.$1(e),l)
+if(e.eO(f)){g=new A.p(i.$1(f),0,i.$1(e),l)
 $.Y()
 n=A.az()
 n.r=B.fl.cm(0.065).gn()
@@ -105201,7 +105201,7 @@ $.Y()
 a=A.az()
 a0=c8.x
 a.r=a0.cm(0.13).gn()
-d1.ea(new A.p(n,k,b,l),a)
+d1.ea(new A.p(n,0,b,l),a)
 for(n=[f,e],b=d1.a,a1=0;a1<2;++a1){a2=n[a1]
 a=i.$1(a2)
 a3=i.$1(a2)
@@ -105209,9 +105209,9 @@ a4=new A.hn(B.bo,B.aX,B.c6,B.cn,B.bC)
 a4.r=a0.cm(0.55).gn()
 a4.c=1
 a5=a4.c1()
-b.drawLine.apply(b,[a,k,a3,l,a5])
+b.drawLine.apply(b,[a,0,a3,l,a5])
 a5.delete()}}}for(n=c8.z,b=d1.a,a=c8.cx,a0=a+2,a3=d2.a,a4=a3-2*a-4,a6=0;a6<=4;++a6){a7=a0+a4*a6/4
-for(a8=k;a8<l;a8+=6){a9=Math.min(a8+3,l)
+for(a8=0;a8<l;a8+=6){a9=Math.min(a8+3,l)
 $.Y()
 b0=new A.hn(B.bo,B.aX,B.c6,B.cn,B.bC)
 b0.r=n.cm(0.18).gn()
@@ -115124,7 +115124,7 @@ B.aGA=new A.E(!0,B.a9,null,".AppleSystemUIFont",null,null,null,null,null,null,nu
 B.aGV=new A.E(!0,B.r,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.l,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.aE6=new A.E(!0,B.r,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.l,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.aI0=new A.ex(B.aFQ,B.aEO,B.aFR,B.aGh,B.aEv,B.aED,B.aF6,B.aGc,B.aFi,B.aGD,B.aE_,B.aEh,B.aGA,B.aGV,B.aE6)
-B.aI3=new A.ly("WearCast 1.0.49",null,null,null,null,null,null,null,null,null)
+B.aI3=new A.ly("WearCast 1.0.50",null,null,null,null,null,null,null,null,null)
 B.aPA=new A.ath(0,"system")
 B.ajM=new A.h(0.056,0.024)
 B.ak2=new A.h(0.108,0.3085)
