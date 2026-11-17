@@ -1,5 +1,5 @@
 {
-  "source_commit": "4b87324ee3127deb2532cb23fb0c391d67447aa3",
+  "source_commit": "2dda14cb8f0c3d3786f7292da894aa614c2b3efc",
   "base_href": "/wearcast-web/",
   "url": "https://altair-research.github.io/wearcast-web/",
   "outfit_count": 683,
@@ -712,15 +712,15 @@
     "flutter.js": "2beb1ce6b159c71540aa66030af1d7964b6a92377cc78473745e02f97b74effe",
     "flutter_bootstrap.js": "c1b9f9a817d5c0182a3f4e21ba6637850b3cb2cb608102946216bd365e850ad7",
     "flutter_service_worker.js": "dbfbe64ae5be5b462abb97338eb9af783ed4ed57a8c73a53c2a44488a26f6416",
-    "hello/index.html": "131ac48b7361fa26e9c67838dfb29daf59310331a08a12c201dfaa29ad4ab568",
+    "hello/index.html": "13e85abcc3a375db6b505c7733a11e52f26d16cca02c5189dd057299132586d4",
     "hello/style.css": "732676b4f2212232aef1b98cef8b57041f00adabec79b8407addfe4762aa7295",
     "icons/Icon-192.png": "62e6d44b6e40ae4ab4daf0e5a21a4ff14c6fd1f548f897d096a430572fc46b4e",
     "index.html": "0b1226aeddf6d45e7c3aaa42f862aa60a532a28a10c6d71eff7b9b058d7a3677",
-    "main.dart.js": "9c58ea8683102d9a8b882865a3093a6ec72103919457c6bca41dfabdef7de98f",
+    "main.dart.js": "1515efce1af9dc4cae52210c3e53062fc795ab34f08a8bff61458972fc2527ff",
     "manifest.json": "224cbb12948ec156d69e21606efd3ab1b96823e8cd3edc0132e68cc54e464447",
     "privacy.html": "78d06d4a6521cd3ca191246f17076c276f7125607fd78d0883c9b1988b2b3d65",
     "style-study/additional.js": "b793cc2fde3bf69c692cccaed157855542ce071362b2acf10c27fce05b27db4f",
-    "style-study/deployment.json": "dc228605b994f82cd98b5ba9597a313130bc7a57c27c978a710c1fa7de4c09e7",
+    "style-study/deployment.json": "617465393115769acedd687e6581a6d540f2e4bb0dd604be9e1ebbf18e2adede",
     "style-study/images/men-fudge.webp": "4d2224032ca4223c3804493cb0a8dfb3413671ea5683ec4d0871e4dfea61e212",
     "style-study/images/men-nonno.webp": "c351537cfdfd0c03d5528a8e80623efaad4d28808dc6729fa633c9cb0ba69797",
     "style-study/images/men-office-fudge.webp": "024f21c02f25f29628fcc5183bcea3269b09d7466c4726b242732b8bb55d09e1",
@@ -746,6 +746,6 @@
     "style-study/images/women-street-fudge.webp": "2ed4953105de45e05119e581d26a74bc1a61b9a72cf5a37d303380145fdfe141",
     "style-study/images/women-street-gisele.webp": "d0ca8bfc1bb01945903f2b977a612d86a78bd09330dcd17cea4d04e068fe300c",
     "style-study/index.html": "136b02a0b215bd276a8ef404dea7ca8beef464e97f675b7e52bf174bb1b1096a",
-    "version.json": "eb65a48dcb71b2199d94a00ab4e68849359db152a2110ef02dd65ea555b7cd22"
+    "version.json": "0fbe4c1933920c3f5f275cd52968ac61ef76070dc2756776cf4bd343ec1353a9"
   }
 }
